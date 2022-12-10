@@ -12,6 +12,7 @@
         <nav>
             <ul>
                 <li>Home</li>
+                <li>Profile</li>
                 <li> <a href="signout.php">Log out</a> </li>
             </ul>
         </nav>
